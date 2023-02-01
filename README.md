@@ -1,9 +1,8 @@
 ## Documentation
 Fractals and visualizations programmed in C++ and Opengl
+https://youtu.be/IUwRo-ozt9M
 
 ![Screenshot 2023-01-31 182547](https://user-images.githubusercontent.com/110789514/216044820-3bd3033f-c45e-4bf2-8efe-f7e835b7b861.png)
-
-https://youtu.be/IUwRo-ozt9M
 
 OpenGL Icosphere Flower Animation programmed in C++.
 
