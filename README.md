@@ -1,6 +1,6 @@
 ## Documentation
 
-Fractals and visualizations programmed in C++ and Opengl
+Fractal visualization programmed in C++ and Opengl using glad, irKlang, stb, and glfw. 
 
 https://youtu.be/IUwRo-ozt9M
 
