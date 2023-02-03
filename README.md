@@ -4,6 +4,11 @@ Fractal visualization programmed in C++ and Opengl using glad, irKlang, stb, and
 
 https://youtu.be/IUwRo-ozt9M
 
+![New_video_AdobeExpress](https://user-images.githubusercontent.com/110789514/216637319-f5d8593b-8cd4-46bf-b054-7c8438305cd8.gif)
+
+![New_video_AdobeExpress (1)](https://user-images.githubusercontent.com/110789514/216637366-583cfee8-c45d-4942-a2bb-34c20fe6a2ca.gif)
+
+
 ![Screenshot 2023-01-31 182547](https://user-images.githubusercontent.com/110789514/216044820-3bd3033f-c45e-4bf2-8efe-f7e835b7b861.png)
 
 OpenGL Icosphere Flower Animation programmed in C++.
