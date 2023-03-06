@@ -8,6 +8,8 @@ https://youtu.be/IUwRo-ozt9M
 
 ## References
 
+Ahn, Song Ho (n.d) Icosphere. https://songho.ca/opengl/gl_sphere.html#icosphere
+
 Damkier, Michael. (n.d.). Nebula in outer space, planets and galaxy. https://stock.adobe.com/images/nebula-in-outer-space-planets-and-galaxy/502119125
 
 DeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL. GitHub. https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
