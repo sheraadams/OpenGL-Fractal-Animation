@@ -1,8 +1,14 @@
+# OpenGL Fractal Animation
+
 ## About the Project
 
 Fractal animation programmed in C++ and Opengl using glad, irKlang, stb, and glfw. 
 
 https://youtu.be/IUwRo-ozt9M
+
+<div style="text-align: center;">
+  <p><strong>See Also: <a href="https://github.com/sheraadams/Space-Shooter-Game" target="_blank">OpenGL Space Shooter Game</a>.</strong></p>
+</div>
 
 ![Screenshot 2023-01-31 182547](https://user-images.githubusercontent.com/110789514/216044820-3bd3033f-c45e-4bf2-8efe-f7e835b7b861.png)
 
@@ -16,3 +22,7 @@ DeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL.
 
 Gasi (n.d.). Fantasy landscape with sandy glaciers and purple crystal. https://as2.ftcdn.net/v2/jpg/05/40/32/05/1000_F_540320548_BoWf10c85q9b6WxUK8IIHYOuiqRgj98W.jpg
 
+
+<div style="text-align: center;">
+  <p><strong>Proudly crafted with ❤️ by <a href="https://github.com/sheraadams" target="_blank">Shera Adams</a>.</strong></p>
+</div>
