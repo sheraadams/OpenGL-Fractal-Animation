@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Fractal animation programmed in C++ and Opengl using glad, irKlang, stb, and glfw. 
+This is a 3D animation that I programmed in C++ with OpenGL. The Fractal animation uses glad, irKlang, stb, and glfw libraries. 
 
 <div style="text-align: center;">
   <p><strong>Watch the video <a href="https://youtu.be/IUwRo-ozt9M" target="_blank">here</a>.</strong></p>
