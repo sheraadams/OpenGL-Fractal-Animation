@@ -1,4 +1,4 @@
-## Documentation
+## About the Project
 
 Fractal animation programmed in C++ and Opengl using glad, irKlang, stb, and glfw. 
 
