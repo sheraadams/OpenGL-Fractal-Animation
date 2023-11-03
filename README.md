@@ -4,7 +4,9 @@
 
 Fractal animation programmed in C++ and Opengl using glad, irKlang, stb, and glfw. 
 
-https://youtu.be/IUwRo-ozt9M
+<div style="text-align: center;">
+  <p><strong>Watch the video <a href="https://youtu.be/IUwRo-ozt9M" target="_blank">here</a>.</strong></p>
+</div>
 
 <div style="text-align: center;">
   <p><strong>See Also: <a href="https://github.com/sheraadams/Space-Shooter-Game" target="_blank">OpenGL Space Shooter Game</a>.</strong></p>
