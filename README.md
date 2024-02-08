@@ -2,9 +2,9 @@
 
 ## About the Project
 
-This is a 3D animation that I programmed in C++ with OpenGL. It uses glad, irKlang, stb, and glfw libraries along with a little math to develop the coordinates for some visually interesting shapes. 
+This is a 3D animation that I programmed in C++ with OpenGL. This applicaiton uses glad, irKlang, stb, and glfw libraries along with a little math to develop the coordinates for some interesting shapes. 
 
-![New_video_AdobeExpress](https://github.com/sheraadams/OpenGL-Fractal-Animation/assets/110789514/04d3e42c-2101-4901-847f-75de8d4c4011)
+![New_video_AdobeExpress](https://github.com/sheraadams/OpenGL-Fractal-Animation-Original/assets/110789514/dba29d2e-136b-48b4-a157-adb355f20045)
 
 <div style="text-align: center;">
   <p><strong>Watch the video <a href="https://youtu.be/IUwRo-ozt9M" target="_blank">here</a>.</strong></p>
