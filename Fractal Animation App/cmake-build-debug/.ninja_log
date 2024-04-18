@@ -1,0 +1,16 @@
+# ninja log v5
+4	88	1713443566381027345	CMakeFiles/GLAD.dir/src/glad.c.o	bef057bba57922c6
+5	49	1713443566341526026	CMakeFiles/sa__game.dir/src/sa/game/objects.cpp.o	3c53f0a50198255c
+0	68	1713443622243226911	build.ninja	e75a5a3ef7781655
+0	5	0	clean	ad90e366ad70d77b
+363	501	7244324880000000	GLAD.lib	16b630ea9f75b32f
+4	159	1713390819452724448	/Users/s.adams/Documents/GitHub/Space-Shooter-Game/Cross Platform Game/space shooter game/bin/sa/sa__game	919bcb91815f1e3c
+162	177	1713443566471581000	libSTB_IMAGE.a	487b5a6d3c68d358
+374	527	7244324880000000	STB_IMAGE.lib	4f81ecf27b4c86c5
+88	150	1713443566444249000	libGLAD.a	9fcbbfa0f9b53fd0
+1356	1557	1713302999231936822	/Users/s.adams/Library/CloudStorage/OneDrive-Personal/space shooter cmake copy/bin/sa/sa__game	331019c0b084f46d
+4	162	1713443566453933437	CMakeFiles/STB_IMAGE.dir/src/stb_image.cpp.o	d56271aff1cb24c4
+584	735	1704652433915887412	/Users/s.adams/Library/Mobile Documents/com~apple~CloudDocs/repos/cmake mac work/imgui/bin/sa/sa__app	f417ca4ab436f71a
+4	581	1713443566872068782	CMakeFiles/sa__game.dir/src/sa/game/icosphere.cpp.o	f872a75e2294a404
+7	629	1713443566919701870	CMakeFiles/sa__game.dir/src/sa/game/source.cpp.o	a1c5f65b39845305
+5	135	1713443624118484211	/Users/s.adams/Documents/GitHub/OpenGL-Fractal-Animation/space shooter game/bin/sa/sa__game	e88331a677f2048d
