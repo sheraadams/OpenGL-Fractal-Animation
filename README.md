@@ -16,6 +16,21 @@ This is a 3D animation that I programmed in C++ with OpenGL. This applicaiton us
 
 ![Screenshot 2023-01-31 182547](https://user-images.githubusercontent.com/110789514/216044820-3bd3033f-c45e-4bf2-8efe-f7e835b7b861.png)
 
+## XCode Usage
+
+1. Open a terminal in the project directory and run the code to remove the old build folder and generate a new one with the Xcode project file. 
+
+```bash
+rm -rf build 
+mkdir build
+cd build
+cmake -G Xcode ..
+```
+
+2. Set the working directory in Xcode using Product > Scheme > Edit Scheme > Run Debug > Options > Working Directory > (Check Set Custom) > Project directory/build.
+
+3. Build and run the project.
+
 ## References
 
 <div style="text-align: center;">
