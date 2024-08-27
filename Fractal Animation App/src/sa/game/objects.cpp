@@ -8,6 +8,7 @@ Objects::Objects()
     glBindBuffer(GL_ARRAY_BUFFER, VBO);
 
 }
+
 void Objects::link(GLsizeiptr size, GLfloat* vertices)
 {
     glGenVertexArrays(1, &VAO);
