@@ -48,9 +48,7 @@ void processInput(GLFWwindow* window);
 unsigned int loadTexture(const char* path);
 unsigned int loadCubemap(vector<std::string> faces);
 void initText();
-/* FUNCTIONS */
 
-/* VARIABLES */
 unsigned int planeVAO;
 std::map<GLchar, Character> Characters;
 GLuint textVAO, textVBO;
@@ -69,8 +67,6 @@ GLfloat rotateX = 0.0f;
 GLfloat rotateY = 0.0f;
 GLfloat xoffset = 0.0f;
 GLfloat yoffset = 0.0f;
-
-/* VARIABLES */
 
 /* CAMERA */
 Camera camera(glm::vec3(0.0f, 0.0f, 3.0f));
@@ -229,7 +225,6 @@ int main()
             glm::vec3(5.0f, -7.0f, 5.0f),
             glm::vec3(5.0f, -7.0f, -5.0f),
             glm::vec3(0.0f, -7.0f, 0.0f),
-
     };
 
     float planeVertices[] = {
@@ -372,7 +367,7 @@ int main()
         float blueValue = static_cast<float>(sin(timeValue) / 2.0 + 0.5);
         float redValue = static_cast<float>(sin(timeValue) / 2.0 + 0.5);
 
-        // put a lower limit on the color to prevent turning black
+        // put a lower limit on the color
         if (greenValue <= .3)
             greenValue = .3;
         if (blueValue <= .3)
@@ -406,8 +401,6 @@ int main()
         glDrawArrays(GL_TRIANGLES, 0, 72);
         glBindVertexArray(0);
         glDepthFunc(GL_LESS);
-
-
         /* RENDER SKYBOX */
         switch (onPerspective)
         {
