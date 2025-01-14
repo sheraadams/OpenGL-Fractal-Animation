@@ -16,22 +16,32 @@ This is a 3D animation that I programmed in C++ with OpenGL. This applicaiton us
 
 ![Screenshot 2023-01-31 182547](https://user-images.githubusercontent.com/110789514/216044820-3bd3033f-c45e-4bf2-8efe-f7e835b7b861.png)
 
+
 ## XCode Usage
 
-1. Open a terminal in the project directory and run the code to remove the old build folder and generate a new one with the Xcode project file. 
+Open a terminal in the project directory and run the code to remove the old build folder and generate a new one with the Xcode project file.
 
 ```bash
-rm -rf build 
 mkdir build
 cd build
 cmake -G Xcode ..
+
+#Usage: when updating the build folder, remove it first then regenerate the folder as above
+rm -rf build 
 ```
+Set the working directory in Xcode using Product > Scheme > Edit Scheme > Run Debug > Options > Working Directory > (Check Set Custom) > Project directory/build.
 
-2. Set the working directory in Xcode using Product > Scheme > Edit Scheme > Run Debug > Options > Working Directory > (Check Set Custom) > Project directory/build.
+Build and run the project.
 
-3. Build and run the project.
+## License:
 
-## References
+The code is based on various tutorial code from LearnOpenGL.com.
+
+Tutorial code is © Joey DeVries and licensed under the CC BY 4.0 License.
+
+Modifications and additional contributions are © Shera Adams and licensed under the Apache 2.0 License.
+
+## Additional References
 
 <div style="text-align: center;">
   <p><strong>For more info, check out my <a href="https://github.com/sheraadams/OpenGL-Fractal-Animation/edit/main/references.md" target="_blank">references</a>.</strong></p>
